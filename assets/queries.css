@@ -1,0 +1,43 @@
+/* MEDIA QUERIES */
+
+@media (max-width: 48.75em) {
+  html {
+    font-size: 65%;
+  }
+}
+
+@media (max-width: 50.375em) {
+  html {
+    font-size: 55%;
+  }
+}
+
+@media (max-width: 42.5em) {
+  html {
+    font-size: 45%;
+  }
+}
+
+@media (max-width: 34.75em) {
+  html {
+    font-size: 40%;
+  }
+}
+
+@media (max-width: 30.625em) {
+  html {
+    font-size: 35%;
+  }
+}
+
+@media (max-width: 26.5625em) {
+  html {
+    font-size: 30%;
+  }
+}
+
+@media (max-width: 22.1875em) {
+  html {
+    font-size: 25%;
+  }
+}
